@@ -29,6 +29,7 @@ public class CambiosdeScena : MonoBehaviour
     {
 
         Debug.Log("salir");
+        Application.Quit();
     }
 
 }
